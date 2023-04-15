@@ -1,0 +1,14 @@
+.current {
+  color: green;
+}
+
+head a {
+  font-size: 24px;
+  padding-right: 20px;
+}
+
+body {
+  background-image: radial-gradient(lightblue, lightsteelblue);
+}
+
+/*# sourceMappingURL=styles.css.map */

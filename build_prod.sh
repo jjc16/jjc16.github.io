@@ -3,6 +3,7 @@ JEKYLL_ENV=production bundle exec jekyll build
 cp -v _site/*.* jjc16.github.io/
 cp -rv assets/ jjc16.github.io/
 cp -rv _posts/*.* jjc16.github.io/_posts/
+cp -rv _posts/*.* jjc16.github.io/
 cd jjc16.github.io
 git add .
 git commit -am"automated commit"
